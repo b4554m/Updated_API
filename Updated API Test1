@@ -1,6 +1,6 @@
 POST - https://www.docusign.net/restapi/v2.1/accounts/244657863/envelopes
 //Looks like I used a production environment for completing all tasks, not the demo. 
-//Once a production-approved Access Token is provided, this API payload should execute and send successfully with no errors.
+//Once a production-approved Access Token is provided, this API should execute and send successfully with no errors.
 
 {
   "recipients": {
