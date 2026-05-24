@@ -28,7 +28,7 @@ POST - https://www.docusign.net/restapi/v2.1/accounts/244657863/envelopes
         "tabs": {
           "signHereTabs": [
             {
-              "xPosition": "40",
+              "xPosition": "48",
               "yPosition": "48",
               "documentId": "1", 
               "pageNumber": "2"
